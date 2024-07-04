@@ -1,2 +1,6 @@
 # Diabetes-Prediction
-A model that can predict diabetes with a high accuracy
+A machine learning model that can predict if a person has diabetes or not with a high accuracy 
+It collects several health-related features from the user such as Glucose levels, BMI, Age etc for prediction
+A Support Vector Model(SVM) is trained to classify individuals as diabetic or non-diabetic.
+
+The objective here is to provide a tool for early diabetes risk assessment based on user-provided health metrics.
