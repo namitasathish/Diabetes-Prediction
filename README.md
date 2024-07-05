@@ -6,3 +6,13 @@ A machine learning model that can predict if a person has diabetes or not with a
 - A Support Vector Model(SVM) is trained to classify individuals as diabetic or non-diabetic.
 - The objective here is to provide a tool for early diabetes risk assessment based on user-provided health metrics.
 
+## Requirements
+
+To run this project, you will need the following Python packages:
+
+- numpy
+- pandas
+- scikit-learn
+- difflib
+
+
